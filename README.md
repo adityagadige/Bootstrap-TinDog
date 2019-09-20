@@ -1,2 +1,1 @@
-# Bootstrap-TinDog
-developed tindog usign bootstrap4
+TinDog Starting Files
